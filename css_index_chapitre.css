@@ -1,0 +1,29 @@
+h1
+{
+	text-align: center;
+	color: blue;
+	font-size: xx-large;
+	font-family: Arial Black;
+	font-weight: bold;
+	font-style: normal;
+}
+
+h2
+{
+	text-align: center;
+	color: violet;
+	font-size: x-large;
+	font-family: Comic Sans MS;
+	text-decoration: underline;
+}
+
+body
+{
+	background-color: cyan;
+}
+
+p
+{
+	text-align: center;
+	font-size: 1.2em;
+}

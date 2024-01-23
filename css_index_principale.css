@@ -1,0 +1,36 @@
+h1
+{
+	text-align: center;
+	color: teal;
+	font-size: x-large;
+	font-family: Arial Black;
+	font-weight: bold;
+	font-style: normal;
+}
+
+body
+{
+	background-color: cyan;
+}
+
+h3
+{
+	text-align: center;
+	color: violet;
+	font-size: large;
+	font-family: Comic Sans MS;
+	text-decoration: underline;
+}
+
+ul
+{
+	font-size: medium;
+	font-family: Trebuchet MS;
+}
+
+IMG.displayed
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
